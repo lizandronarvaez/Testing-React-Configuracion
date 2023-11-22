@@ -3,7 +3,7 @@
 
 1. Instalaciones de dependencias:
     ```
-    yarn add --dev jest babel-jest @babel/preset-env @babel/preset-react 
+    yarn add --dev jest@27 babel-jest@27 @babel/preset-env @babel/preset-react @babel/core@7
     yarn add --dev @testing-library/react @types/jest jest-environment-jsdom
     ```
 
